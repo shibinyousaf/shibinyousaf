@@ -13,7 +13,7 @@ I’m passionate about using **data** and **AI** to solve complex problems and u
 ## 🛠️ Tech Stack
 - **Languages**: Python, SQL , HTML , CSS 
 - **Tools**: Scikit-learn, TensorFlow, Keras, Pandas, Matplotlib, Power BI, Tableau
-- **Databases**: MySQL, SQLite,NoSQL
+- **Databases**: MySQL
 - **Other**: Jupyter Notebooks, VS Code, Git
 
 ## 🎯 Currently Learning
